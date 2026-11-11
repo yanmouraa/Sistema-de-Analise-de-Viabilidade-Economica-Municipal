@@ -90,7 +90,19 @@ Dessa forma, a lista de municípios na barra de consultas não precisa ser cadas
 
 ---
 
-## 4. Estrutura do projeto
+## 4. Futuras aplicações
+
+O sistema possui possibilidades de expansão para ampliar suas funcionalidades e oferecer maior flexibilidade na consulta e análise dos dados municipais.
+
+Entre as melhorias planejadas estão:
+
+- **Filtro por ano:** permitir que o usuário selecione os anos que deseja consultar, possibilitando análises de períodos específicos e comparações históricas entre diferentes exercícios.
+- **Ampliação das consultas históricas:** expandir a disponibilidade de dados para outros exercícios, conforme a disponibilidade das informações na fonte consultada.
+- **Aprimoramento da visualização dos indicadores:** implementar novas formas de comparação e apresentação dos dados, facilitando a identificação de variações e tendências.
+
+Essas melhorias fazem parte da evolução planejada do projeto e poderão ser implementadas conforme o desenvolvimento da aplicação.
+
+## 5. Estrutura do projeto
 
 ```text
 Analise-de-Viabilidade-Economica/
@@ -166,7 +178,7 @@ Analise-de-Viabilidade-Economica/
 
 ---
 
-## 5. Objetivo do projeto
+## 6. Objetivo do projeto
 
 O objetivo do sistema é reduzir etapas manuais na coleta e organização de informações municipais, facilitando a análise de indicadores fiscais e dados salariais.
 
@@ -174,7 +186,7 @@ Além de sua aplicação prática, o desenvolvimento permitiu trabalhar com inte
 
 ---
 
-## 6. Observações sobre os dados
+## 7. Observações sobre os dados
 
 Os dados utilizados na demonstração do módulo salarial podem conter informações simuladas, incluindo documentos PDF de teste e valores de referência utilizados durante o desenvolvimento.
 
@@ -184,9 +196,12 @@ Os indicadores fiscais, por sua vez, são obtidos por meio do processo de consul
 
 ---
 
-## 7. Gif's do Sistema
+## 8. Gif's de funcionamento do sistema
 
+### 8.1 Consulta de indicadores fiscais municipais
 ![Primeiro Módulo](Gifs/gif-1.gif)
+
+### 8.2 Extração e análise de dados salariais
 ![Segundo Módulo](Gifs/gif-2.gif)
 
 ## Autor

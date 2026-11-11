@@ -206,7 +206,7 @@ Os indicadores fiscais, por sua vez, são obtidos por meio do processo de consul
 
 ## Autor
 
-**Yan Moura**
+**Yan Ablevitz de Deus Moura**
 
 Estudante de Engenharia de Software, interessado em desenvolvimento backend, automação de processos, integração de APIs e gerenciamento de bancos de dados.
 
